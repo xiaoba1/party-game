@@ -1,0 +1,896 @@
+[
+  {
+    "id": "p1",
+    "content": "你最近一次说谎是什么时候？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p2",
+    "content": "你暗恋过在场的人吗？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p3",
+    "content": "你做过最尴尬的事是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p4",
+    "content": "你的初吻是什么时候？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p5",
+    "content": "你最讨厌在场谁的习惯？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p6",
+    "content": "你手机里最不想让人看的照片是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p7",
+    "content": "你撒过最大的谎是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p8",
+    "content": "你最后悔的一件事？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p9",
+    "content": "你理想型是什么样的？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p10",
+    "content": "你有过几段感情？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p11",
+    "content": "你最想对前任说什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p12",
+    "content": "你做过最疯狂的事？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p13",
+    "content": "你最大的秘密是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p14",
+    "content": "你觉得自己最大的缺点？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p15",
+    "content": "你小时候最丢人的事？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p16",
+    "content": "你最害怕什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p17",
+    "content": "你最后悔没做的事？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p18",
+    "content": "你觉得自己颜值几分？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p19",
+    "content": "你偷看过别人手机吗？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p20",
+    "content": "你最大的癖好是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p21",
+    "content": "你对在场哪位有好感？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p22",
+    "content": "你最想改变的外貌？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p23",
+    "content": "你做过最社死的事？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p24",
+    "content": "你的黑历史是什么？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p25",
+    "content": "你最后悔的购物？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p26",
+    "content": "你撒过谎的对象是谁？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p27",
+    "content": "你最不能接受的约会行为？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p28",
+    "content": "你的理想婚礼？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p29",
+    "content": "你最大的野心？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p30",
+    "content": "你最后悔认识的人？",
+    "tag": "truth",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p31",
+    "content": "学猫叫三声",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p32",
+    "content": "给左边的人按摩30秒",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p33",
+    "content": "做10个俯卧撑",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p34",
+    "content": "用屁股写名字",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p35",
+    "content": "模仿在场一人说话",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p36",
+    "content": "和右边的人自拍",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p37",
+    "content": "打电话给通讯录第3个人",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p38",
+    "content": "发一条朋友圈夸在场的人",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p39",
+    "content": "唱一首歌",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p40",
+    "content": "跳一段舞",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p41",
+    "content": "用方言说一段话",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p42",
+    "content": "闭眼转10圈",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p43",
+    "content": "让右边的人弹脑门",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p44",
+    "content": "做鬼脸保持10秒",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p45",
+    "content": "单脚站立30秒",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p46",
+    "content": "和左边的人碰杯",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p47",
+    "content": "说一个绕口令",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p48",
+    "content": "表演一个表情包",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p49",
+    "content": "模仿一种动物",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p50",
+    "content": "对窗外大喊我爱你",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p51",
+    "content": "让在场的人在你脸上画画",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p52",
+    "content": "用搞笑姿势拍照",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p53",
+    "content": "给在场每人一个赞美",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p54",
+    "content": "表演一段即兴演讲",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p55",
+    "content": "做瑜伽动作30秒",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p56",
+    "content": "和异性对视10秒",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p57",
+    "content": "让其他人出题你回答",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p58",
+    "content": "表演吃很烫的食物",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p59",
+    "content": "用唱歌方式说话",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p60",
+    "content": "做表情包九宫格",
+    "tag": "dare",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p61",
+    "content": "喝一口",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p62",
+    "content": "喝两口",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p63",
+    "content": "喝半杯",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p64",
+    "content": "喝一杯",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p65",
+    "content": "左边的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p66",
+    "content": "右边的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p67",
+    "content": "所有人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p68",
+    "content": "年龄最小的喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p69",
+    "content": "年龄最大的喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p70",
+    "content": "穿红色的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p71",
+    "content": "戴眼镜的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p72",
+    "content": "单身的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p73",
+    "content": "有对象的喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p74",
+    "content": "头发最长的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p75",
+    "content": "最后到的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p76",
+    "content": "主持人指定的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p77",
+    "content": "猜拳输的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p78",
+    "content": "说错的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p79",
+    "content": "笑声最大的人喝",
+    "tag": "drink",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p80",
+    "content": "表演一段绕口令",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p81",
+    "content": "即兴讲一个笑话",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p82",
+    "content": "表演广告词",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p83",
+    "content": "模仿明星",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p84",
+    "content": "表演魔术",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p85",
+    "content": "表演一段小品",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p86",
+    "content": "朗诵一首诗",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p87",
+    "content": "表演武术动作",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p88",
+    "content": "表演芭蕾",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p89",
+    "content": "表演说唱",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p90",
+    "content": "表演新闻播报",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p91",
+    "content": "表演天气预报",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p92",
+    "content": "表演购物直播",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p93",
+    "content": "表演老师上课",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p94",
+    "content": "表演医生看病",
+    "tag": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p95",
+    "content": "和左边的人碰杯",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p96",
+    "content": "和右边的人握手",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p97",
+    "content": "找一个人拥抱",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p98",
+    "content": "和异性对视5秒",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p99",
+    "content": "给在场每人一个赞美",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p100",
+    "content": "找一个人说悄悄话",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p101",
+    "content": "和左边的人换座位",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p102",
+    "content": "找一个人合影",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p103",
+    "content": "给右边的人喂一口",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p104",
+    "content": "找一个人击掌",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p105",
+    "content": "和在场的人玩猜拳",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p106",
+    "content": "找一个人说谢谢",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p107",
+    "content": "和左边的人干杯",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p108",
+    "content": "找一个人说晚安",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p109",
+    "content": "和右边的人碰拳",
+    "tag": "interaction",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p110",
+    "content": "免喝一杯",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p111",
+    "content": "休息一轮",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p112",
+    "content": "指定他人代喝",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p113",
+    "content": "获得提问权",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p114",
+    "content": "再转一次",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p115",
+    "content": "奖励一个拥抱",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p116",
+    "content": "可以跳过下次惩罚",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p117",
+    "content": "指定一人回答问题",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p118",
+    "content": "获得投票豁免权",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p119",
+    "content": "奖励一次真心话豁免",
+    "tag": "reward",
+    "difficulty": "mild"
+  },
+  {
+    "id": "p120",
+    "content": "你作弊过吗？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p121",
+    "content": "你最想实现的愿望？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p122",
+    "content": "你最后哭是因为什么？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p123",
+    "content": "你觉得自己性格像什么动物？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p124",
+    "content": "你最想拥有的超能力？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p125",
+    "content": "你做过最浪漫的事？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p126",
+    "content": "你最不能忍受的食物？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p127",
+    "content": "你的手机壁纸是什么？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p128",
+    "content": "你最后悔的发消息？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p129",
+    "content": "你最想对家人说的话？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p130",
+    "content": "你觉得自己五年后会怎样？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p131",
+    "content": "你最大的恐惧？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p132",
+    "content": "你最后悔没表白的人？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p133",
+    "content": "你的理想生活？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p134",
+    "content": "你最想去的旅行地？",
+    "tag": "truth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p135",
+    "content": "用屁股坐破气球",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p136",
+    "content": "让右边的人画脸",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p137",
+    "content": "表演一段B-box",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p138",
+    "content": "做20个深蹲",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p139",
+    "content": "和左边的人十指相扣10秒",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p140",
+    "content": "用搞笑声音说一段话",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p141",
+    "content": "表演一段慢动作",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p142",
+    "content": "做表情包五连拍",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p143",
+    "content": "让在场的人投票最丑表情",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p144",
+    "content": "表演一段freestyle",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p145",
+    "content": "和右边的人公主抱",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p146",
+    "content": "做平板支撑30秒",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p147",
+    "content": "表演一段哑剧",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p148",
+    "content": "用英文自我介绍",
+    "tag": "dare",
+    "difficulty": "heavy"
+  },
+  {
+    "id": "p149",
+    "content": "表演一段太极",
+    "tag": "dare",
+    "difficulty": "heavy"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"u1","civilianWord":"苹果","spyWord":"梨","category":"水果"},
+  {"id":"u2","civilianWord":"咖啡","spyWord":"奶茶","category":"饮品"},
+  {"id":"u3","civilianWord":"篮球","spyWord":"足球","category":"运动"},
+  {"id":"u4","civilianWord":"电影","spyWord":"电视剧","category":"娱乐"},
+  {"id":"u5","civilianWord":"夏天","spyWord":"冬天","category":"季节"},
+  {"id":"u6","civilianWord":"地铁","spyWord":"公交","category":"交通"},
+  {"id":"u7","civilianWord":"微信","spyWord":"QQ","category":"社交"},
+  {"id":"u8","civilianWord":"火锅","spyWord":"烧烤","category":"美食"},
+  {"id":"u9","civilianWord":"猫","spyWord":"狗","category":"动物"},
+  {"id":"u10","civilianWord":"医生","spyWord":"护士","category":"职业"},
+  {"id":"u11","civilianWord":"钢琴","spyWord":"吉他","category":"乐器"},
+  {"id":"u12","civilianWord":"北京","spyWord":"上海","category":"城市"},
+  {"id":"u13","civilianWord":"太阳","spyWord":"月亮","category":"自然"},
+  {"id":"u14","civilianWord":"小说","spyWord":"漫画","category":"阅读"},
+  {"id":"u15","civilianWord":"游泳","spyWord":"跑步","category":"运动"},
+  {"id":"u16","civilianWord":"玫瑰","spyWord":"百合","category":"花卉"},
+  {"id":"u17","civilianWord":"老师","spyWord":"教授","category":"职业"},
+  {"id":"u18","civilianWord":"蛋糕","spyWord":"面包","category":"食物"},
+  {"id":"u19","civilianWord":"火车","spyWord":"飞机","category":"交通"},
+  {"id":"u20","civilianWord":"眼镜","spyWord":"墨镜","category":"物品"}
+]
