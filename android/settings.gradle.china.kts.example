@@ -1,0 +1,11 @@
+// 仅本地网络差时使用：复制内容覆盖 settings.gradle.kts 的 repositories 块
+// GitHub Actions 请保持官方 google() + mavenCentral()，不要用阿里云
+
+repositories {
+    maven { url = uri("https://maven.aliyun.com/repository/google") }
+    maven { url = uri("https://maven.aliyun.com/repository/public") }
+    maven { url = uri("https://maven.aliyun.com/repository/gradle-plugin") }
+    google()
+    mavenCentral()
+    gradlePluginPortal()
+}
